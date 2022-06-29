@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyzeki&label=Profile%20views&color=0e75b6&style=flat" alt="onlyzeki" /> </p>
 
-<p align="left"> <a href="https://twitter.com/onlyzeki" target="blank"><img src="https://img.shields.io/twitter/follow/onlyzeki?logo=twitter&style=for-the-badge" alt="onlyzeki" /></a> </p>
+<p align="left"> <a href="https://twitter.com/onlyzek" target="blank"><img src="https://img.shields.io/twitter/follow/onlyzeki?logo=twitter&style=for-the-badge" alt="onlyzeki" /></a> </p>
 
 - 🔭 I’m currently working on [Backup Roleplay](discord.gg/backuprp)
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/onlyzeki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onlyzek" height="30" width="40" /></a>
+<a href="https://twitter.com/onlyzeki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onlyzeki" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/onlyzeki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="onlyzeki" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.gg/backuprp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/backuprp" height="30" width="40" /></a>
 </p>

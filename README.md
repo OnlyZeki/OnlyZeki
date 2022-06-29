@@ -1,15 +1,11 @@
-[![MasterHead](https://preview.redd.it/4qz4kem6py631.jpg?auto=webp&s=043516e44ea249dd0ce225326bf54b76d1ba525e)](https://discord.gg/backuprp)
 <h1 align="center">Hi 👋, I'm Zeki</h1>
 <h3 align="center">A passionate server owner and dedicated person</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyzeki&label=Profile%20views&color=0e75b6&style=flat" alt="onlyzeki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onlyzeki" alt="onlyzeki" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/onlyzeki" target="blank"><img src="https://img.shields.io/twitter/follow/onlyzeki?logo=twitter&style=for-the-badge" alt="onlyzeki" /></a> </p>
 
-- 🔭 I’m currently working on [Backup](discord.gg/backuprp)
+- 🔭 I’m currently working on [Backup Roleplay](discord.gg/backuprp)
 
 - 💬 Ask me about **Server Management , LUA , HTML , CSS , JS**
 

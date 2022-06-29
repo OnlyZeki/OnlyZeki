@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif)](https://discord.gg/backuprp)
+[![MasterHead](https://gifdb.com/images/thumbnail/juice-wrld-in-back-seat-19bq9h3tst2drlw2.gif)](https://discord.gg/backuprp)
 <h1 align="center">Hi 👋, I'm Zeki</h1>
 <h3 align="center">A passionate server owner and dedicated person</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

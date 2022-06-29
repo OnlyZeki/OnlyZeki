@@ -1,3 +1,4 @@
+[![MasterHead](https://preview.redd.it/4qz4kem6py631.jpg?auto=webp&s=043516e44ea249dd0ce225326bf54b76d1ba525e)](https://discord.gg/backuprp)
 <h1 align="center">Hi 👋, I'm Zeki</h1>
 <h3 align="center">A passionate server owner and dedicated person</h3>
 

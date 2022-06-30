@@ -1,4 +1,4 @@
-[![MasterHead](https://preview.redd.it/4qz4kem6py631.jpg?auto=webp&s=043516e44ea249dd0ce225326bf54b76d1ba525e)](https://discord.gg/backuprp)
+[![MasterHead](https://preview.redd.it/4qz4kem6py631.jpg?auto=webp&s=043516e44ea249dd0ce225326bf54b76d1ba525e)](https://discord.gg/backuproleplay)
 <h1 align="center">Hi 👋, I'm Zeki</h1>
 <h3 align="center">A passionate server owner and dedicated person</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/onlyzek" target="blank"><img src="https://img.shields.io/twitter/follow/onlyzeki?logo=twitter&style=for-the-badge" alt="onlyzeki" /></a> </p>
 
-- 🔭 I’m currently working on [Backup Roleplay](discord.gg/backuprp)
+- 🔭 I’m currently working on [Backup Roleplay](discord.gg/backuproleplay)
 
 - 💬 Ask me about **Server Management , LUA , HTML , CSS , JS**
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/onlyzeki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onlyzeki" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/onlyzeki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="onlyzeki" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/backuprp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/backuprp" height="30" width="40" /></a>
+<a href="https://discord.gg/discord.gg/backuproleplay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/backuproleplay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

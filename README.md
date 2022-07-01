@@ -1,4 +1,4 @@
-[![MasterHead](https://preview.redd.it/4qz4kem6py631.jpg?auto=webp&s=043516e44ea249dd0ce225326bf54b76d1ba525e)](https://discord.gg/backuproleplay)
+[![MasterHead](https://i.pinimg.com/originals/94/91/6b/94916bc85d82d43aa9d33730e77c1c2c.gif)](https://discord.gg/backuproleplay)
 <h1 align="center">Hi 👋, I'm Zeki</h1>
 <h3 align="center">A passionate server owner and dedicated person</h3>
 
